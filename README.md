@@ -48,7 +48,7 @@ The server will start on `http://localhost:3000`.
 
 ## Deployment
 
-The application is deployed on Render. You can access it [[here](<insert-deployed-url>)](https://part-3-step-10.onrender.com).
+The application is deployed on Render. You can access it (<insert-deployed-url>)](https://part-3-step-10.onrender.com).
 
 ## License
 
