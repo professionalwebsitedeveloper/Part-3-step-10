@@ -48,10 +48,10 @@ The server will start on `http://localhost:3000`.
 
 ## Deployment
 
-The application is deployed on Render. You can access it (<insert-deployed-url>)](https://part-3-step-10.onrender.com).
+The application is deployed on Render. You can access it (https://part-3-step-10.onrender.com).
 
 ## License
 
 This project is licensed under the MIT License.
 
-Online application: https://<your-render-or-fly-url>
+Online application: (https://part-3-step-10.onrender.com)
