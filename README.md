@@ -100,14 +100,14 @@ The server will start on `http://localhost:3000`.
 
 The application is deployed on Render. You can access it https://part-3-step-10.onrender.com/api/persons
 
-## License
+## Frontend
 
-This project is licensed under the MIT License.
+The Frontend of this application run on the below link
 
 Online application: https://part-3-step-10.onrender.com).
 
-## License
+## Backend application
 
-This project is licensed under the MIT License.
+The Backend of this application run on the below link
 
 Online application: (https://part-3-step-10.onrender.com)
